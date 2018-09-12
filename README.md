@@ -1,3 +1,3 @@
 This is a mock product webpage called Excursion, an upcoming app mobile vide app that helps users record and share their experiences.
 
-This webpage is intended to apply the HTML and CSS knowledge I learned at Codecademy to create a product webpage solely for sample project purpose and not as a real-world webpage.
+NOTE: This is not a real-world webpage and is only a sample project that shows the level of HTML and CSS skills that I have learned so far in Codecademy. This is not a real webpage!
